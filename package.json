@@ -1,0 +1,14 @@
+{
+  "name": "mika-poker",
+  "version": "1.0.0",
+  "description": "poker games with webrtc face-api three.js ",
+  "author": "daryl",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
