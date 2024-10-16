@@ -21,5 +21,5 @@
 
 ```bash
 $ yarn add mika-poker
-$ yarn dev
+$ yarn server
 ```
