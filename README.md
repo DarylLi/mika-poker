@@ -3,7 +3,7 @@
 <p>
 <a href="https://github.com/DarylLi/mika-poker">GitHub</a>
 <span>｜</span>
-<a href="http://franxxdaryl.site/">Threejs demo</a>
+<a href="https://darylli.github.io/mika-poker/demo/index.html">demo</a>
 <span>｜</span>
 <a href="https://github.com/DarylLi/mika-poker/issues">反馈</a>
 </p>
